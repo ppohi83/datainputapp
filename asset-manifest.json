@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/datainputapp/static/css/main.ba49ec77.chunk.css",
+    "main.js": "/datainputapp/static/js/main.bb0582a2.chunk.js",
+    "main.js.map": "/datainputapp/static/js/main.bb0582a2.chunk.js.map",
+    "runtime~main.js": "/datainputapp/static/js/runtime~main.3084e378.js",
+    "runtime~main.js.map": "/datainputapp/static/js/runtime~main.3084e378.js.map",
+    "static/js/2.5fd5d7c0.chunk.js": "/datainputapp/static/js/2.5fd5d7c0.chunk.js",
+    "static/js/2.5fd5d7c0.chunk.js.map": "/datainputapp/static/js/2.5fd5d7c0.chunk.js.map",
+    "index.html": "/datainputapp/index.html",
+    "precache-manifest.d23ab0a4b6f6c4c8711a651cfd3de750.js": "/datainputapp/precache-manifest.d23ab0a4b6f6c4c8711a651cfd3de750.js",
+    "service-worker.js": "/datainputapp/service-worker.js",
+    "static/css/main.ba49ec77.chunk.css.map": "/datainputapp/static/css/main.ba49ec77.chunk.css.map"
+  }
+}
